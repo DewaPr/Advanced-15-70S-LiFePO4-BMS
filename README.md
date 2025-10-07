@@ -17,7 +17,7 @@ This repository contains the hardware design and firmware for a highly configura
     * Under-Voltage
     * Over-Current (Discharge and Charge)
     * Over-Temperature
-* **Communication:** Outputs key battery data via **CAN bus** and **UART**.
+* **Communication:** Outputs key battery data via **CAN bus**, **USB-VCP**, **I2C**, and **UART**.
 
 ## Hardware
 The BMS is built around a dedicated analog front-end (AFE) for precise measurements.
