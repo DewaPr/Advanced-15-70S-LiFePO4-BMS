@@ -40,6 +40,3 @@ The firmware is responsible for all logic, from data acquisition to safety monit
 ## Project Status: Complete
 ---
 *Created by Dewa Pramudya, 2025*
-
----
-*Created by [Your Name], [Year]*
