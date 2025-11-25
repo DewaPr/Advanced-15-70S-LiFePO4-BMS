@@ -3,7 +3,7 @@
 This repository contains the hardware design and firmware for a highly configurable Battery Management System. It's designed for LiFePO4 battery packs ranging from 15 to 70 cells in series, making it suitable for various electric vehicle applications.
 
 ![BMS Project Image](placeholder.png)
-*(Tip: Replace this with a photo of your PCB or a system block diagram!)*
+*(To Be Added, Please check https://www.linkedin.com/in/dewapramudya/ -> Project for updated image)*
 
 ---
 
