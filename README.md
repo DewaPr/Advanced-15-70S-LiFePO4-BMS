@@ -37,6 +37,9 @@ The firmware is responsible for all logic, from data acquisition to safety monit
 3.  **Balancing Logic:** Activates balancing circuits for cells exceeding the average voltage during the charging phase.
 4.  **Fault Detection:** Continuously checks for fault conditions and can trigger a protection circuit to disconnect the battery pack if necessary.
 
+## Demonstration
+more image and testing on my LinkedIn: [dewapramudya](https://linkedin.com/in/dewapramudya)
+
 ## Project Status: Complete
 ---
 *Created by Dewa Pramudya, 2025*
